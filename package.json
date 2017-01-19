@@ -1,0 +1,25 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengledowl/node_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengledowl/node_practice/issues"
+  },
+  "homepage": "https://github.com/mengledowl/node_practice#readme",
+  "dependencies": {
+    "moment": "^2.17.1"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
